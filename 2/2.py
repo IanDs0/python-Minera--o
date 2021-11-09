@@ -1,3 +1,4 @@
+#4.1
 import math
 
 olá= int(input('Digite o angulo'));
@@ -7,8 +8,7 @@ rad = (olá*3.14)/180;
 
 print("\nrad: ",rad,"\ncos: ",math.cos(olá),"\nsen: ",math.sin(olá),"\ntg: ",math.tan(olá));
 
-###
-
+#4.2
 import numpy as np
 
 olá= int(input('Digite o angulo'));

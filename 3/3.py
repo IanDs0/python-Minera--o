@@ -1,3 +1,4 @@
+#5.1
 import math
 
 Valor = float(input('Valor a ser sacado'));
@@ -20,7 +21,7 @@ print("\n O numero de notas 50: ", math.floor(cinquenta));
 print("\n O numero de notas 10", math.floor(dez));
 print("\n O numero de notas 1: ", math.floor(um));
 
-##
+#5.2
 import math
 
 Temp = int(input("Digite o numero de segundo sque deseja converter para horas,minutos, sehundos"));
@@ -39,7 +40,7 @@ print("\n O numero de Horas: ",math.floor(horas));
 print("\n O numero de minutos: ",math.floor(minutos));
 print("\n O numero de segundos: ",math.floor(segundos));
 
-##
+#5.3
 import math
 
 Val1= float(input("Digite o primeiro valor a ser usado:  "));
