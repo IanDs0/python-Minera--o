@@ -1,0 +1,16 @@
+3.1)    a)Int
+        b)boleando
+        c)float
+        d)float
+        e)char
+        f)char
+
+3.2) A soma "a+b" é a soma de inteiros dando o resultado de "2" como um valo inteiro já a soma "c+d" ocorre a concatenação das variáveis dando o valor de "12" já que são variaveis do tipo char
+
+3.3) Poderia se converter esta soma "c+d" com o coman "int(c)+int(d)" assim ocasionado o mesmo valor da soma "a+b"
+
+3.4) Não podem ser variaveis são "f","h","k"
+
+    f)O espaço entre a palavra aluno e o numero 1
+    h)O nome da variavel sendo "int" é o mesmo nome do tipo primitivo int
+    k)O nome da variavel sendo "class" é o memo nome da criação de uma classe 
